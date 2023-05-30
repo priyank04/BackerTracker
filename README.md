@@ -4,5 +4,8 @@ Backers Count Prediction System for Kickstarter Using R. This repository looks a
 # More Info
 You can find out the report `Group4_DataMining_Project.pdf` to learn more about the project. 
 
+# Improvements
+Although this is a closed project but I would love to hear any suggestions you might have on the project. Please send a pull request and we can go over it.
+
 # Contact
-If you feel you want to discuss more about the project or suggest any improvements on the project, feel free to send a pull request or lets connect on <a href = "https://www.linkedin.com/in/priyanks99/" target="_blank">linkedin</a>.
+If you want to discuss more about this project or anything related to data analytics, data engineering, any conferences or work/collaboration opportunities, lets connect on <a href = "https://www.linkedin.com/in/priyanks99/" target="_blank">linkedin</a>.
